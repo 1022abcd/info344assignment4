@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:33:46 AM] Emulator config file set to C:\Users\Allen\source\repos\PA3 - Copy\PA3\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:33:46 AM] DiagnosticsStoreRootPath set to: C:\Users\Allen\AppData\Local\dftmp\Resources\171ea78a-6a9a-4840-a247-7fa5d2cb5531
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:33:46 AM] Loading config file: C:\Users\Allen\source\repos\PA3 - Copy\PA3\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:33:46 AM] Config file to read: C:\Users\Allen\source\repos\PA3 - Copy\PA3\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:33:46 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:33:46 AM] Emulator config file set to C:\Users\Allen\source\repos\PA3 - Copy\PA3\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:33:46 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:33:46 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:33:46 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:33:46 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:33:46 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:33:46 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:33:46 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:33:46 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:33:46 AM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:34:57 AM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [3/7/2018 5:34:57 AM] DiagnosticPlugin exited with code 0

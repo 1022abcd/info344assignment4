@@ -1,0 +1,22 @@
+Write up 
+
+Assignment 4
+
+
+
+    Connecting PA1 
+        - modify php file 
+            :expose an api in jsonp format
+            :set the matching restriction to be exact match
+        - use ajax and set the url: 'your aws'
+        - append the result to index.html
+
+    Connecting PA2
+        - copy and paste all the code to PA4
+        - use ajax to connect PA2 search suggestions function to the search engine
+
+    Connecting PA3
+        - change the pageEntity
+            :PartitionKey = splitted word (splitted by spaces)
+            :RowKey = hashed(url)
+        - modify all the code to be working

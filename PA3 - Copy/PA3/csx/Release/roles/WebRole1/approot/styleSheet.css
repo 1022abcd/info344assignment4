@@ -1,0 +1,48 @@
+﻿
+nav {
+    margin-bottom: 50px;
+}
+
+form {
+    margin-bottom: 50px;
+}
+
+#logo {
+    padding-left: 60px;
+    align-content: center;
+    align-items: center;
+}
+
+.content {
+    font-size: 0px;
+    align-content: left;
+}
+
+#fullname {
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+#getTeam {
+    font-size: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+}
+
+#row {
+    align-items: center;
+    display: inline-block;
+}
+
+#hyperlink {
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+li {
+    display: inline;
+    padding-top: 10px;
+    padding: 5px;
+    align-content: left;
+}
